@@ -6,9 +6,7 @@ namespace Alua3VSC
     {
         static void Main(string[] args)
         {
-            float altura;
-            float peso;
-            float imc;
+            float altura, imc, peso;
 
             Console.WriteLine("Digite seu nome: ");
             string nome = Console.ReadLine();
@@ -19,9 +17,9 @@ namespace Alua3VSC
             Console.WriteLine("Digite seu peso: ");
             peso = float.Parse(Console.ReadLine());
 
-            imc = peso / (altura * altura);
+            imc = (peso / (altura * altura));
             
-            Console.WriteLine("Seu IMC é: " + imc);
+            Console.WriteLine("Temos o resultado " + nome + "\nSeu IMC é: " + imc);
             
         }
     }
