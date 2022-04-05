@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\05 04 2022\\IMC - VS\\IMC - VS\\IMC - VS.csproj",
-      "projectName": "IMC - VS",
-      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\05 04 2022\\IMC - VS\\IMC - VS\\IMC - VS.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\05 04 2022\\IMC VS 05 04 2022\\IMC NOVO\\IMC NOVO\\IMC NOVO.csproj",
+      "projectName": "IMC NOVO",
+      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\05 04 2022\\IMC VS 05 04 2022\\IMC NOVO\\IMC NOVO\\IMC NOVO.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\05 04 2022\\IMC - VS\\IMC - VS\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\05 04 2022\\IMC VS 05 04 2022\\IMC NOVO\\IMC NOVO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
