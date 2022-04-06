@@ -1,0 +1,16 @@
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.exe
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.deps.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\refint\Aula6VS.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VS\Aula6VS\obj\Debug\net5.0\ref\Aula6VS.dll

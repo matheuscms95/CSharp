@@ -1,0 +1,16 @@
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\bin\Debug\net5.0\Aula6VSC.exe
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\bin\Debug\net5.0\Aula6VSC.deps.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\bin\Debug\net5.0\Aula6VSC.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\bin\Debug\net5.0\Aula6VSC.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\bin\Debug\net5.0\Aula6VSC.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\bin\Debug\net5.0\Aula6VSC.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\Aula6VSC.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\Aula6VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\Aula6VSC.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\Aula6VSC.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\Aula6VSC.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\Aula6VSC.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\refint\Aula6VSC.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\Aula6VSC.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\Aula6VSC.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Aula6VSC\obj\Debug\net5.0\ref\Aula6VSC.dll
