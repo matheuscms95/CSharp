@@ -12,7 +12,7 @@ namespace Aula6VS
             {
                 Console.WriteLine($"Posição {i}.\nEntre com o valor que deseja somar a {valor}: ");
                 valor += int.Parse(Console.ReadLine());
-                // += == Valor = valor + int.Parse(Console.ReadLine());
+                // += = Valor = valor + int.Parse(Console.ReadLine());
             }
             Console.WriteLine($"Somatoria: {valor}");
         }

@@ -1,0 +1,16 @@
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\bin\Debug\net5.0\Tabuada CSharp.exe
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\bin\Debug\net5.0\Tabuada CSharp.deps.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\bin\Debug\net5.0\Tabuada CSharp.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\bin\Debug\net5.0\Tabuada CSharp.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\bin\Debug\net5.0\Tabuada CSharp.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\bin\Debug\net5.0\Tabuada CSharp.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\Tabuada CSharp.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\Tabuada CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\Tabuada CSharp.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\Tabuada CSharp.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\Tabuada CSharp.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\Tabuada CSharp.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\refint\Tabuada CSharp.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\Tabuada CSharp.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\Tabuada CSharp.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\06 04 2022\Tabuada CSharp\Tabuada CSharp\obj\Debug\net5.0\ref\Tabuada CSharp.dll
