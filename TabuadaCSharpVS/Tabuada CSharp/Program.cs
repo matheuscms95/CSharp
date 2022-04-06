@@ -17,6 +17,7 @@ namespace Tabuada_CSharp
                 {
                     Console.WriteLine($"{valor} x {y} = {valor * y}");
                 }
+                Console.WriteLine("Essa é a tabuada do número desejado");
                 break;
             }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\Tabuada CSharp\\Tabuada CSharp\\Tabuada CSharp.csproj": {}
+    "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\TabuadaCSharpVS\\Tabuada CSharp\\Tabuada CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\Tabuada CSharp\\Tabuada CSharp\\Tabuada CSharp.csproj": {
+    "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\TabuadaCSharpVS\\Tabuada CSharp\\Tabuada CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\Tabuada CSharp\\Tabuada CSharp\\Tabuada CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\TabuadaCSharpVS\\Tabuada CSharp\\Tabuada CSharp.csproj",
         "projectName": "Tabuada CSharp",
-        "projectPath": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\Tabuada CSharp\\Tabuada CSharp\\Tabuada CSharp.csproj",
+        "projectPath": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\TabuadaCSharpVS\\Tabuada CSharp\\Tabuada CSharp.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\Tabuada CSharp\\Tabuada CSharp\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\OneDrive\\Documents\\Generation\\Códigos\\Abril\\06 04 2022\\TabuadaCSharpVS\\Tabuada CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
