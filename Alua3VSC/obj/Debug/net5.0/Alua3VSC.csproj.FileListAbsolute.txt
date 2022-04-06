@@ -1,0 +1,16 @@
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\bin\Debug\net5.0\Alua3VSC.exe
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\bin\Debug\net5.0\Alua3VSC.deps.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\bin\Debug\net5.0\Alua3VSC.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\bin\Debug\net5.0\Alua3VSC.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\bin\Debug\net5.0\Alua3VSC.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\bin\Debug\net5.0\Alua3VSC.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\Alua3VSC.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\Alua3VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\Alua3VSC.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\Alua3VSC.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\Alua3VSC.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\Alua3VSC.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\refint\Alua3VSC.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\Alua3VSC.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\Alua3VSC.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\Alua3VSC\obj\Debug\net5.0\ref\Alua3VSC.dll

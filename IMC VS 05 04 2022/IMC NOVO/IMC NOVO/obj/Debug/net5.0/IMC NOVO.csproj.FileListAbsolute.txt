@@ -1,0 +1,16 @@
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\IMC NOVO.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\IMC NOVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\IMC NOVO.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\IMC NOVO.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\IMC NOVO.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\bin\Debug\net5.0\IMC NOVO.exe
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\bin\Debug\net5.0\IMC NOVO.deps.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\bin\Debug\net5.0\IMC NOVO.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\bin\Debug\net5.0\IMC NOVO.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\bin\Debug\net5.0\IMC NOVO.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\bin\Debug\net5.0\IMC NOVO.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\IMC NOVO.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\refint\IMC NOVO.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\IMC NOVO.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\IMC NOVO.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\05 04 2022\IMC VS 05 04 2022\IMC NOVO\IMC NOVO\obj\Debug\net5.0\ref\IMC NOVO.dll

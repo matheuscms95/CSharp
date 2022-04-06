@@ -1,0 +1,16 @@
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\IMC - VS.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\IMC - VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\IMC - VS.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\IMC - VS.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\IMC - VS.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\bin\Debug\net5.0\IMC - VS.exe
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\bin\Debug\net5.0\IMC - VS.deps.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\bin\Debug\net5.0\IMC - VS.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\bin\Debug\net5.0\IMC - VS.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\bin\Debug\net5.0\IMC - VS.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\bin\Debug\net5.0\IMC - VS.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\IMC - VS.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\refint\IMC - VS.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\IMC - VS.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\IMC - VS.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\04 04 2022\IMC - VS\IMC - VS\obj\Debug\net5.0\ref\IMC - VS.dll
