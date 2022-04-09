@@ -1,0 +1,16 @@
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\bin\Debug\net5.0\ExercicioDesenho.exe
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\bin\Debug\net5.0\ExercicioDesenho.deps.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\bin\Debug\net5.0\ExercicioDesenho.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\bin\Debug\net5.0\ExercicioDesenho.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\bin\Debug\net5.0\ExercicioDesenho.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\bin\Debug\net5.0\ExercicioDesenho.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\ExercicioDesenho.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\ExercicioDesenho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\ExercicioDesenho.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\ExercicioDesenho.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\ExercicioDesenho.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\ExercicioDesenho.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\refint\ExercicioDesenho.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\ExercicioDesenho.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\ExercicioDesenho.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\08 04 2022\ExercicioDesenho\ExercicioDesenho\ExercicioDesenho\obj\Debug\net5.0\ref\ExercicioDesenho.dll
