@@ -1,0 +1,16 @@
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\bin\Debug\net5.0\Lista10.exe
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\bin\Debug\net5.0\Lista10.deps.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\bin\Debug\net5.0\Lista10.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\bin\Debug\net5.0\Lista10.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\bin\Debug\net5.0\Lista10.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\bin\Debug\net5.0\Lista10.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\Lista10.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\Lista10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\Lista10.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\Lista10.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\Lista10.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\Lista10.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\refint\Lista10.dll
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\Lista10.pdb
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\Lista10.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documents\Generation\Códigos\Abril\12 04 2022\Lista10\obj\Debug\net5.0\ref\Lista10.dll
